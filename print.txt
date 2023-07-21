@@ -1,0 +1,3 @@
+import dummy
+
+print(f'{name}이는 {food}를 좋아한다.')
